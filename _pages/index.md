@@ -2,29 +2,73 @@
 layout: defaults/page
 permalink: index.html
 narrow: true
-title: Welcome to Friday Theme
+title: Hi, welcome to the blog!
 ---
 
-## What is it?
+## Data Visualization
 
-{% include components/intro.md %}
+### 🌟 [Tableau]({% link _posts/2021-09-15-materials-tableau.md %})
 
-[Here's the full feature list and some quick examples of what it can do.]({{ site.baseurl}}{% link _pages/about.md %})
+<img src="https://hj-1304143905.cos.ap-shanghai.myqcloud.com/Picture.png" alt="img" style="zoom:25%;" />
 
-## How to use it
+### 📒 PowerBI
 
-This web site is the documentation for the theme and also provides examples of how you can use and modify it. TIt is built using Friday Theme directly from the [GitHub repo](https://github.com/sfreytag/friday-theme) and published to GitHub pages.
+<img src="https://hj-1304143905.cos.ap-shanghai.myqcloud.com/PowerBI.PNG" alt="PowerBI" style="zoom:78%;" />
 
-[The documentation]({{ site.baseurl }}{% link list/projects.md %}) covers the basics of installing and using it, and is an example of how you could write documentation about your own projects.
+### 📖 [Analysis Reports]({% link _posts/2021-09-18-materials-report.md %})
 
-[The blog]({{ site.baseurl }}{% link list/posts.html %}) has a bunch of tips about how to use Friday Theme. These show how the blog works, including the tags. There's the three most-recent posts below included below.
+<br/>
 
-<hr />
+## Structured Data Processing
 
-### Recent Posts
+### 📦 SQL
 
-{% for post in site.posts limit:3 %}
-{% include components/post-card.html %}
-{% endfor %}
+{% include components/sql.md %}
 
+### 📚 Alteryx
 
+<img src="https://hj-1304143905.cos.ap-shanghai.myqcloud.com/alteryx.PNG" alt="Alteryx" style="zoom:80%;" />
+
+## Artificial Intelligence
+
+### 💻 [Machine Learning]({% link _posts/2021-03-01-materials-ml.md %})
+
+<img src="https://hj-1304143905.cos.ap-shanghai.myqcloud.com/ml/001.png" alt="ML" style="zoom:22%;" />
+
+### 🤖️ [Deep Learning / Reinforcement Learning]({% link _posts/2019-11-01-materials-drl.md %})
+
+<img src="https://hj-1304143905.cos.ap-shanghai.myqcloud.com/drl/001.png" alt="DRL" style="zoom:24%;" />
+
+<img src="https://hj-1304143905.cos.ap-shanghai.myqcloud.com/drl/002.png" alt="DRL" style="zoom:22%;" />
+
+<br/>
+
+## 🔢 Data Structure
+
+{% include components/data_structure.md %}
+
+## 📓 Support
+
+### [Machine Vision]({% link _posts/2020-09-01-materials-mv.md %})
+
+<img src="https://hj-1304143905.cos.ap-shanghai.myqcloud.com/mv0.png" alt="Alteryx" style="zoom:29%;" />
+
+### [Computer Vision]({% link _posts/2022-09-28-materials-cv.md %})
+
+<img src="https://hj-1304143905.cos.ap-shanghai.myqcloud.com/cv/04.jpg" alt="cv" style="zoom:31%;" />
+
+### [Natural Language Processing]({% link _posts/2022-09-08-materials-nlp.md %})
+
+<img src="https://hj-1304143905.cos.ap-shanghai.myqcloud.com/nlp/01.PNG" alt="nlp" style="zoom:64%;" />
+
+### [Smart City Landscape Design]({% link _posts/2021-01-22-materials-smart-city.md %})
+
+### [Thermal Simulation in Battery Industry]({% link _posts/2022-03-10-materials-simulation.md %})
+
+<br/>
+
+## Thank you :)
+
+<br/>
+
+<br/>
