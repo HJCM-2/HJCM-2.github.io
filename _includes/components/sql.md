@@ -2,5 +2,5 @@ Possess the skills of single-table and multi-table query through SQL, and can pe
 
 
 
- [This is my SQL code on GitHub, click here to learn more.](https://github.com/HJCM-2/Projects/tree/main/sql) 
+[This is my SQL code on GitHub, click here to learn more.](https://github.com/HJCM-2/Projects/tree/main/sql) 
 

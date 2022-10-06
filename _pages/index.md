@@ -25,6 +25,10 @@ title: Hi, welcome to the blog!
 
 {% include components/sql.md %}
 
+### 🐼 Pandas
+
+{% include components/pandas.md %}
+
 ### 📚 Alteryx
 
 <img src="https://hj-1304143905.cos.ap-shanghai.myqcloud.com/alteryx.PNG" alt="Alteryx" style="zoom:80%;" />
